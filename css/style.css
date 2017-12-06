@@ -2,10 +2,18 @@
 /* This is a comment! */
 
 /* CSS Syntax:
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/site-style
 selector {
   property: value;
   property: value;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/site-style
 */
 
 /* Type selector */
